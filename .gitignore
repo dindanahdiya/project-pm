@@ -1,0 +1,8 @@
+# Folder data dan environment
+.pemsin/
+data_preprocessed/
+hasil_evaluasi/
+
+# File dataset besar
+fashion-mnist_test.csv
+fashion-mnist_train.csv
